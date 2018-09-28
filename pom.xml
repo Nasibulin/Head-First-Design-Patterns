@@ -7,6 +7,13 @@
     <groupId>Head-First-Design-Patterns</groupId>
     <artifactId>Head-First-Design-Patterns</artifactId>
     <version>1.0-SNAPSHOT</version>
-
+    <dependencies>
+        <dependency>
+            <groupId>javax</groupId>
+            <artifactId>javaee-web-api</artifactId>
+            <version>8.0</version>
+            <scope>provided</scope>
+        </dependency>
+    </dependencies>
     
 </project>
